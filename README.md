@@ -1,9 +1,6 @@
 # BellBoy
-
-## Author
-
-<!-- Insert Your Name Here -->
-
-## Description
+### Hybrid Additive Synthesizer
+### Peter Magro (aidolon)
+### 
 
 <!-- Describe your example here -->
